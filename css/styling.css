@@ -1,0 +1,18 @@
+body{
+   
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,70,121,1) 42%, rgb(0, 204, 255) 100%);
+}
+
+.card-button img{
+    height: 21px;
+}
+.date{
+    font-style: italic;
+    font-size: 1.1rem;
+}
+.weather-icon{
+    width: 5rem;
+}
+.weather-card{
+    
+}
